@@ -29,7 +29,7 @@ public class TestServlet extends HttpServlet {
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp)
 			throws ServletException, IOException {
-		System.out.println("doGet method");
+		System.out.println("doGet method called");
 		PrintWriter pw = resp.getWriter();
 		pw.print("/hello");
 		pw.close();
