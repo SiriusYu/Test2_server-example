@@ -53,7 +53,7 @@ public class UserServlet extends HttpServlet {
 		    userNameCookie.setMaxAge(30 * 60);/* 有效期30分钟 */
 		    response.addCookie(userNameCookie);
 		    
-		    System.out.println("New Cookies, userName: " + userName);
+		    System.out.println("New Cookies  userName: " + userName);
 	    }
 	    else
 		{
