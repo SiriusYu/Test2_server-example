@@ -1,0 +1,22 @@
+2015-09-01 19:17:20,722 0    [localhost-startStop-1] (TestListener.java:23) INFO  com.netease.server.example.web.controller.listener.TestListener - contextInitialized
+2015-09-01 19:17:20,730 8    [localhost-startStop-1] (UserServlet.java:29) INFO  com.netease.server.example.web.controller.UserServlet - UserServlet init method is invoked.
+2015-09-01 19:17:20,733 11   [localhost-startStop-1] (AllServlet.java:28) INFO  com.netease.server.example.web.controller.AllServlet - AllServlet init is invoked.
+2015-09-01 19:17:20,738 16   [localhost-startStop-1] (TestListener.java:31) INFO  com.netease.server.example.web.controller.listener.TestListener - context attributeAdded
+2015-09-01 19:17:29,436 8714 [http-bio-8080-exec-1] (RequestIdFilter.java:50) INFO  com.netease.server.example.web.controller.filter.RequestIdFilter - request a45b6cfdf70f4bd9b6137c3cbaf07ade started
+2015-09-01 19:17:29,455 8733 [http-bio-8080-exec-1] (RequestIdFilter.java:52) INFO  com.netease.server.example.web.controller.filter.RequestIdFilter - request a45b6cfdf70f4bd9b6137c3cbaf07ade ended
+2015-09-01 19:17:30,073 9351 [http-bio-8080-exec-3] (RequestIdFilter.java:50) INFO  com.netease.server.example.web.controller.filter.RequestIdFilter - request f9b95f64898145d3854eba554a6f18a7 started
+2015-09-01 19:17:30,076 9354 [http-bio-8080-exec-3] (RequestIdFilter.java:52) INFO  com.netease.server.example.web.controller.filter.RequestIdFilter - request f9b95f64898145d3854eba554a6f18a7 ended
+2015-09-01 19:36:42,597 0    [localhost-startStop-1] (TestListener.java:23) INFO  com.netease.server.example.web.controller.listener.TestListener - contextInitialized
+2015-09-01 19:36:42,606 9    [localhost-startStop-1] (UserServlet.java:29) INFO  com.netease.server.example.web.controller.UserServlet - UserServlet init method is invoked.
+2015-09-01 19:36:42,606 9    [localhost-startStop-1] (AllServlet.java:28) INFO  com.netease.server.example.web.controller.AllServlet - AllServlet init is invoked.
+2015-09-01 19:36:42,613 16   [localhost-startStop-1] (TestListener.java:31) INFO  com.netease.server.example.web.controller.listener.TestListener - context attributeAdded
+2015-09-01 19:37:12,241 0    [localhost-startStop-1] (TestListener.java:23) INFO  com.netease.server.example.web.controller.listener.TestListener - contextInitialized
+2015-09-01 19:37:12,251 10   [localhost-startStop-1] (UserServlet.java:29) INFO  com.netease.server.example.web.controller.UserServlet - UserServlet init method is invoked.
+2015-09-01 19:37:12,252 11   [localhost-startStop-1] (AllServlet.java:28) INFO  com.netease.server.example.web.controller.AllServlet - AllServlet init is invoked.
+2015-09-01 19:37:12,259 18   [localhost-startStop-1] (TestListener.java:31) INFO  com.netease.server.example.web.controller.listener.TestListener - context attributeAdded
+2015-09-01 19:37:18,957 6716 [http-bio-8080-exec-10] (RequestIdFilter.java:50) INFO  com.netease.server.example.web.controller.filter.RequestIdFilter - request 415b071fc93541929b1488a436433dcd started
+2015-09-01 19:37:18,958 6717 [http-bio-8080-exec-10] (UserServlet.java:41) INFO  com.netease.server.example.web.controller.UserServlet - UserServlet post method is invoked.
+2015-09-01 19:37:18,962 6721 [http-bio-8080-exec-10] (RequestIdFilter.java:52) INFO  com.netease.server.example.web.controller.filter.RequestIdFilter - request 415b071fc93541929b1488a436433dcd ended
+2015-09-01 19:38:02,601 50360 [http-bio-8080-exec-10] (RequestIdFilter.java:50) INFO  com.netease.server.example.web.controller.filter.RequestIdFilter - request 229c07666878475a9dd848d052aa9a91 started
+2015-09-01 19:38:02,601 50360 [http-bio-8080-exec-10] (UserServlet.java:41) INFO  com.netease.server.example.web.controller.UserServlet - UserServlet post method is invoked.
+2015-09-01 19:38:02,601 50360 [http-bio-8080-exec-10] (RequestIdFilter.java:52) INFO  com.netease.server.example.web.controller.filter.RequestIdFilter - request 229c07666878475a9dd848d052aa9a91 ended
